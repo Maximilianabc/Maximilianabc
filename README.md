@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Maximilianabc, you can call me Max
 - 👀 I’m interested in backend/game development
 - 🌱 I’m currently learning Blender for my FYP
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: [school email](mailto:hmmleung@connect.ust.hk) or [personal email](mailto:leunghomanmax@rocketmail.com)
 
 <!---
