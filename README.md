@@ -13,20 +13,20 @@ Here are the skills I learnt and where I applied them:
 
 <table>
 	<thead>
-		<tr style="font-weight: 600;">
-			<td>Project</td>
-			<td>Type</td>
-			<td>Status</td>
-			<td>Skills / Tools</td>
-			<td>Where Applied In Project</td>
-			<td>Short Description</td>
+		<tr>
+			<td><b>Project</b></td>
+			<td><b>Type</b></td>
+			<td><b>Status</b></td>
+			<td><b>Skills / Tools</b></td>
+			<td><b>Where Applied In Project</b></td>
+			<td><b>Short Description</b></td>
 		</tr>
 	</thead>
 	<tbody>
 <!-- PressOnce Suite-->
 		<tr>
 			<td rowspan="10">
-				<a href="">PressOnce Suite</a>
+				<a href="https://github.com/Maximilianabc/PressOnce-Suite">PressOnce Suite</a>
 			</td>
 			<td rowspan="10">Self Project</td>
 			<td rowspan="10">Ongoing</td>
@@ -34,33 +34,33 @@ Here are the skills I learnt and where I applied them:
 			<td>/</td>
 			<td rowspan="10">
 				A collection of softwares designed for the web browser game called
-				<a href="">Travian Legends</a>
+				<a href="https://www.travian.com/international/game/playerinteraction">Travian Legends</a>
 			</td>
 		</tr>
 		<tr>
 			<td>T-SQL</td>
-			<td><a href="">Database</a></td>
+			<td><a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce%20-%20Database">Database</a></td>
 		</tr>
 		<tr>
 			<td>Winforms</td>
-			<td>UI Implementations (<a href="">old</a>)</td>
+			<td>UI Implementations (<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/Old/PressOnce.Automate">old</a>)</td>
 		</tr>
 		<tr>
 			<td>WPF</td>
-			<td>UI Implementations (<a href="">new</a>)</td>
+			<td>UI Implementations (<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce.Amalgamate">new</a>)</td>
 		</tr>
 		<tr>
 			<td>WCF</td>
-			<td>Server API (<a href="">old</a>)</td>
+			<td>Server API (<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/Old/PressOnce.Amalgamate%20-%20Server">old</a>)</td>
 		</tr>
 		<tr>
 			<td>ASP.NET Core (gRPC)</td>
-			<td>Server API (<a href="">new</a>)</td>
+			<td>Server API (<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce.Services">new</a>)</td>
 		</tr>
 		<tr>
 			<td>ASP.NET Core (Razor Pages)</td>
 			<td>
-				<a href="">Product Website</a>
+				<a href="https://223.17.124.177/">Product Website</a>
 				<sup><a href="#Footnote">1</a></sup>
 			</td>
 		</tr>
@@ -79,7 +79,7 @@ Here are the skills I learnt and where I applied them:
 <!-- FYP -->
 		<tr>
 			<td rowspan="5">
-				<a href="">Steel Of Stalin (FYP)</a>
+				<a href="https://github.com/Maximilianabc/FYP-Steel-Of-Stalin">Steel Of Stalin (FYP)</a>
 				<sup><a href="#Footnote">2</a></sup>
 			</td>
 			<td rowspan="5">University Final Year Project</td>
@@ -106,7 +106,7 @@ Here are the skills I learnt and where I applied them:
 		</tr>
 <!-- Internship Projects -->
 		<tr>
-			<td rowspan="4"><a href="">Sharp Point Ltd. Web Client</a></td>
+			<td rowspan="4"><a href="https://github.com/Maximilianabc/Sharp-Point-Ltd-Web-Client">Sharp Point Ltd. Web Client</a></td>
 			<td rowspan="4">Company Project</td>
 			<td rowspan="4">Completed</td>
 			<td>HTML5, CSS3, TypeScript</td>
@@ -123,7 +123,7 @@ Here are the skills I learnt and where I applied them:
 			<td>UX design</td>
 		</tr>
 		<tr>
-			<td><a href="">Sharp Point Ltd. Web Socket Proxy</a></td>
+			<td><a href="https://github.com/Maximilianabc/Sharp-Point-WebSocket-To-Socket-Proxy">Sharp Point Ltd. Web Socket Proxy</a></td>
 			<td>Company Project</td>
 			<td>Completed</td>
 			<td>C#</td>
@@ -133,7 +133,7 @@ Here are the skills I learnt and where I applied them:
 <!-- Steel Of Stalin COMP 4451 -->
 		<tr>
 			<td rowspan="5">
-				<a href="">Steel Of Stalin (COMP 4451)</a>
+				<a href="https://github.com/Maximilianabc/Course-project-on-threejs-game-comp4451">Steel Of Stalin (COMP 4451)</a>
 				<sup><a href="#Footnote">3</sup>
 			</td>
 			<td rowspan="5">University Course Project</td>
@@ -157,7 +157,7 @@ Here are the skills I learnt and where I applied them:
 		</tr>
 <!-- COMP 4431 -->
 		<tr>
-			<td><a href="">COMP 4431 Mini Project</a></td>
+			<td><a href="https://github.com/Maximilianabc/COMP4431-Mini-Project">COMP 4431 Mini Project</a></td>
 			<td>University Course Project</td>
 			<td>Completed</td>
 			<td>JavaScript</td>
@@ -166,7 +166,7 @@ Here are the skills I learnt and where I applied them:
 		</tr>
 <!-- COMP 3111 -->
 		<tr>
-			<td rowspan="2"><a href="">Popular Names</a></td>
+			<td rowspan="2"><a href="https://github.com/Maximilianabc/COMP/tree/master/3111/COMP3111-Fall2020-T04">Popular Names</a></td>
 			<td rowspan="2">University Course Project</td>
 			<td rowspan="2">Completed</td>
 			<td>Java, JavaFX</td>
@@ -179,7 +179,7 @@ Here are the skills I learnt and where I applied them:
 		</tr>
 <!-- COMP 3311 -->
 		<tr>
-			<td><a href="">Labs & Course Project (Individual)</a></td>
+			<td><a href="https://github.com/Maximilianabc/COMP/tree/master/3311">Labs & Course Project (Individual)</a></td>
 			<td>University Course Assignments</td>
 			<td>Completed</td>
 			<td>PL/SQL, C#<sup><a href="#Footnote">4</a></sup></td>
@@ -188,7 +188,7 @@ Here are the skills I learnt and where I applied them:
 		</tr>
 <!-- COMP 3021 -->
 		<tr>
-			<td rowspan="3"><a href="">Labs & Programming Assignments (Jeson Mor)</a></td>
+			<td rowspan="3"><a href="https://github.com/Maximilianabc/COMP/tree/master/3021">Labs & Programming Assignments (Jeson Mor)</a></td>
 			<td rowspan="3">University Course Assignments</td>
 			<td rowspan="3">Completed</td>
 			<td>Java</td>
@@ -205,7 +205,10 @@ Here are the skills I learnt and where I applied them:
 		</tr>
 <!-- COMP 2011 & COMP 2012 -->
 		<tr>
-			<td>Labs & Programming Assignments (<a href="">COMP 2011</a> & <a href="">COMP 2012</a>)</td>
+			<td>Labs & Programming Assignments 
+				(<a href="https://github.com/Maximilianabc/COMP/tree/master/2011">COMP 2011</a> & 
+				<a href="https://github.com/Maximilianabc/COMP/tree/master/2012">COMP 2012</a>)
+			</td>
 			<td>University Course Assignments</td>
 			<td>Completed</td>
 			<td>C++</td>
@@ -223,7 +226,7 @@ Here are the skills I learnt and where I applied them:
 		</tr>
 <!-- Small Self Projects -->
 		<tr>
-			<td><a href="">UST TimeTable</a></td>
+			<td><a href="https://github.com/Maximilianabc/UST-TimeTable">UST TimeTable</a></td>
 			<td>Self Project</td>
 			<td>Completed</td>
 			<td>C#</td>
@@ -231,7 +234,7 @@ Here are the skills I learnt and where I applied them:
 			<td>A small tool for fetching course timetable</td>
 		</tr>
 		<tr>
-			<td><a href="">UST Zoom Meeting ID</a></td>
+			<td><a href="https://github.com/Maximilianabc/UST-Zoom-Meeting-ID">UST Zoom Meeting ID</a></td>
 			<td>Self Project</td>
 			<td>Completed</td>
 			<td>C#</td>
@@ -239,17 +242,21 @@ Here are the skills I learnt and where I applied them:
 			<td>A small tool for fetching course zoom meeting links</td>
 		</tr>
 		<tr>
-			<td><a href="">Big Reactor ComputerCraft Scripts</a></td>
+			<td><a href="https://github.com/Maximilianabc/Big-Reactor-ComputerCraft-Scripts">Big Reactor ComputerCraft Scripts</a></td>
 			<td>Self Project</td>
 			<td>Completed</td>
 			<td>Lua</td>
 			<td>/</td>
-			<td>Some scripts written for controlling <a href="">Big Reactors</a> using <a href="">ComputerCraft</a> API</td>
+			<td>Some scripts written for controlling 
+				<a href="https://www.curseforge.com/minecraft/mc-mods/big-reactors#:~:text=Big%20Reactors%20emphasizes%20the%20construction,Energistics%202%2C%20and%20Minefactory%20Reloaded.">Big Reactors</a> 
+				(a mod for <a href="https://www.minecraft.net/en-us/about-minecraft">Minecraft</a>) using 
+				<a href="https://www.curseforge.com/minecraft/mc-mods/computercraft">ComputerCraft</a> API
+			</td>
 		</tr>
 		<tr>
 			<td>Duplicate Photo Remover</a></td>
 			<td>Self Project</td>
-			<td>Completed</td>
+			<td>Ongoing</td>
 			<td>Xamarin</td>
 			<td>/</td>
 			<td>A small tool for removing duplicated Pixiv artworks saved to phones</td>
@@ -258,11 +265,11 @@ Here are the skills I learnt and where I applied them:
 </table>
 
 <section id="Footnote">
-	<sup>1</sup> Screenshots are available in the <a href="">repository</a> in case of website unavailability<br/>
+	<sup>1</sup> Screenshots are available in the <a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce.Web">repository</a> in case of website unavailability<br/>
 	<sup>2</sup> The full version of this project is being developed in a private repository<br/>
 	<sup>3</sup> The project was succeeded by the FYP version with drastic changes on mechanisms and visuals<br/>
-	<sup>4</sup> <a href="">Lab8</a> only<br/>
-	<sup>5</sup> Jeson Mor <a href="">PA2</a> only
+	<sup>4</sup> <a href="https://github.com/Maximilianabc/COMP/tree/master/3311/Labs/Lab8Exercise">Lab8</a> only<br/>
+	<sup>5</sup> Jeson Mor <a href="https://github.com/Maximilianabc/COMP/tree/master/3021/Pa2">PA2</a> only
 </section>
 
 <!---
