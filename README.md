@@ -3,8 +3,8 @@
 - 👋 Hi, I’m @Maximilianabc, you can call me Max
 - 👀 I’m interested in both frontend and backend development
 - 🌱 I’m currently learning:
-    - Blend for Visual Studio, for my project PressOnce Suite
-	- Vue.js, for my github.io website (contents here will be moved to the website in the future)
+    - Azure DevOps, for my project PressOnce Suite
+    - Windows Server, for hosting my project PressOnce Suite
 - 📫 How to reach me: [school email](mailto:hmmleung@connect.ust.hk) or [personal email](mailto:leunghomanmax@rocketmail.com)
 
 # Skills and Projects
