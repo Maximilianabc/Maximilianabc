@@ -29,7 +29,8 @@ Here are the skills I learnt and where I applied them:
 <!-- PressOnce Suite-->
 		<tr>
 			<td rowspan="10">
-				<a href="https://github.com/Maximilianabc/PressOnce-Suite">PressOnce Suite</a>
+				<!--<a href="https://github.com/Maximilianabc/PressOnce-Suite">PressOnce Suite</a>-->
+				PressOnce Suite
 			</td>
 			<td rowspan="10">Self Project</td>
 			<td rowspan="10">Ongoing</td>
@@ -42,29 +43,29 @@ Here are the skills I learnt and where I applied them:
 		</tr>
 		<tr>
 			<td>T-SQL</td>
-			<td><a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce%20-%20Database">Database</a></td>
+			<td><!--<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce%20-%20Database">Database</a>-->Database</td>
 		</tr>
 		<tr>
 			<td>Winforms</td>
-			<td>UI Implementations (<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/Old/PressOnce.Automate">old</a>)</td>
+			<td>UI Implementations (<!--<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/Old/PressOnce.Automate">old</a>-->old)</td>
 		</tr>
 		<tr>
 			<td>WPF</td>
-			<td>UI Implementations (<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce.Amalgamate">new</a>)</td>
+			<td>UI Implementations (<!--<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce.Amalgamate">new</a>-->new)</td>
 		</tr>
 		<tr>
 			<td>WCF</td>
-			<td>Server API (<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/Old/PressOnce.Amalgamate%20-%20Server">old</a>)</td>
+			<td>Server API (<!--<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/Old/PressOnce.Amalgamate%20-%20Server">old</a>-->old)</td>
 		</tr>
 		<tr>
 			<td>ASP.NET Core (gRPC)</td>
-			<td>Server API (<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce.Services">new</a>)</td>
+			<td>Server API (<!--<a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce.Services">new</a>-->new)</td>
 		</tr>
 		<tr>
 			<td>ASP.NET Core (Razor Pages)</td>
 			<td>
-				<a href="https://223.17.124.177/">Product Website</a>
-				<sup><a href="#Footnote">1</a></sup>
+				<!--<a href="https://223.17.124.177/">Product Website</a>
+				<sup><a href="#Footnote">1</a></sup>-->Product Website
 			</td>
 		</tr>
 		<tr>
@@ -129,7 +130,7 @@ Here are the skills I learnt and where I applied them:
 		<tr>
 			<td rowspan="5">
 				<a href="https://github.com/Maximilianabc/FYP-Steel-Of-Stalin">Steel Of Stalin (FYP)</a>
-				<sup><a href="#Footnote">2</a></sup>
+				<sup><a href="#Footnote">1</a></sup>
 			</td>
 			<td rowspan="5">University Final Year Project</td>
 			<td rowspan="5">Completed</td>
@@ -183,7 +184,7 @@ Here are the skills I learnt and where I applied them:
 		<tr>
 			<td rowspan="5">
 				<a href="https://github.com/Maximilianabc/Course-project-on-threejs-game-comp4451">Steel Of Stalin (COMP 4451)</a>
-				<sup><a href="#Footnote">3</sup>
+				<sup><a href="#Footnote">2</sup>
 			</td>
 			<td rowspan="5">University Course Project</td>
 			<td rowspan="5">Completed</td>
@@ -249,7 +250,7 @@ Here are the skills I learnt and where I applied them:
 			<td rowspan="3">Course Assignments for COMP 3021 - Java Programming</td>
 		</tr>
 		<tr>
-			<td>JavaFX<sup><a href="#Footnote">4</a></sup></td>
+			<td>JavaFX<sup><a href="#Footnote">3</a></sup></td>
 			<td>UI Implementation</td>
 		</tr>
 		<tr>
@@ -318,10 +319,10 @@ Here are the skills I learnt and where I applied them:
 </table>
 
 <section id="Footnote">
-	<sup>1</sup> Screenshots are available in the <a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce.Web">repository</a> in case of website unavailability<br/>
-	<sup>2</sup> The full version of this project is being developed in a private repository<br/>
-	<sup>3</sup> The project was succeeded by the FYP version with drastic changes on mechanisms and visuals<br/>
-	<sup>4</sup> Jeson Mor <a href="https://github.com/Maximilianabc/COMP/tree/master/3021/Pa2">Programming Assignment 2</a> only
+	<!--<sup>1</sup> Screenshots are available in the <a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce.Web">repository</a> in case of website unavailability<br/>-->
+	<sup>1</sup> The full version of this project is being developed in a private repository<br/>
+	<sup>2</sup> The project was succeeded by the FYP version with drastic changes on mechanisms and visuals<br/>
+	<sup>3</sup> Jeson Mor <a href="https://github.com/Maximilianabc/COMP/tree/master/3021/Pa2">Programming Assignment 2</a> only
 </section>
 
 <!---
