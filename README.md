@@ -3,9 +3,12 @@
 - 👋 Hi, I’m @Maximilianabc, you can call me Max
 - 👀 I’m interested in both frontend and backend development
 - 🌱 I’m currently learning:
-    - Azure DevOps, for my project PressOnce Suite
+    - Azure DevOps Services, for my project PressOnce Suite (collaborations with newly joined contributors)
     - Windows Server, for hosting my project PressOnce Suite
-- 📫 How to reach me: [school email](mailto:hmmleung@connect.ust.hk) or [personal email](mailto:leunghomanmax@rocketmail.com)
+- 📫 How to reach me: 
+	- [Alumni Email](mailto:hmmleung@connect.ust.hk)
+	- [Personal Email](mailto:leunghomanmax@rocketmail.com)
+	- [Linked In](https://www.linkedin.com/in/ho-man-max-leung-6091b7275/)
 
 # Skills and Projects
 
@@ -31,7 +34,7 @@ Here are the skills I learnt and where I applied them:
 			<td rowspan="10">Self Project</td>
 			<td rowspan="10">Ongoing</td>
 			<td>C#</td>
-			<td>/</td>
+			<td>Whole Project</td>
 			<td rowspan="10">
 				A collection of softwares designed for the web browser game called
 				<a href="https://www.travian.com/international/game/playerinteraction">Travian Legends</a>
@@ -76,6 +79,52 @@ Here are the skills I learnt and where I applied them:
 			<td>Adobe AI</td>
 			<td>Custom SVG Icon Designs</td>
 		</tr>
+<!-- San Miguel Projects -->
+		<tr>
+			<td rowspan="6">San Miguel Mobile Sales Force - Web Admin Portal</td>
+			<td rowspan="6">Company Project</td>
+			<td rowspan="6">Ongoing</td>
+			<td>HTML5, SCSS, TypeScript, Webpack</td>
+			<td rowspan="2">Frontend UI Implementation</td>
+			<td rowspan="6">A web portal for sales admin operations like sales data management and report generations</td>
+		</tr>
+		<tr><td>Bootstrap 5</td></tr>
+		<tr>
+			<td>ASP.NET Core MVC</td>
+			<td>Server-side controller logic development</td>
+		</tr>
+		<tr>
+			<td>T-SQL</td>
+			<td>Database</a></td>
+		</tr>
+		<tr>
+			<td>NUnit</td>
+			<td>Unit Testing server-side logic</td>
+		</tr>
+		<tr>
+			<td>IIS</td>
+			<td>Hosting</td>
+		</tr>
+		<tr>
+			<td rowspan="4">San Miguel Two-Factor Authentication Service API</td>
+			<td rowspan="4">Company Project</td>
+			<td rowspan="4">Completed</td>
+			<td>ASP.NET Core Web API</td>
+			<td>Whole Project</td>
+			<td rowspan="4">An API for authenticating users with 2FA (TOTP) which consumed by different teams</td>
+		</tr>
+		<tr>
+			<td>T-SQL</td>
+			<td>Database</a></td>
+		</tr>
+		<tr>
+			<td>NUnit</td>
+			<td>Unit Testing</td>
+		</tr>
+		<tr>
+			<td>IIS</td>
+			<td>Hosting</td>
+		</tr>
 <!-- FYP -->
 		<tr>
 			<td rowspan="5">
@@ -85,7 +134,7 @@ Here are the skills I learnt and where I applied them:
 			<td rowspan="5">University Final Year Project</td>
 			<td rowspan="5">Completed</td>
 			<td>C#</td>
-			<td>/</td>
+			<td>Whole Project</td>
 			<td rowspan="5">A 3D remake of the 2D version of the game</td>
 		</tr>
 		<tr>
@@ -127,7 +176,7 @@ Here are the skills I learnt and where I applied them:
 			<td>Company Project</td>
 			<td>Completed</td>
 			<td>C#</td>
-			<td>/</td>
+			<td>Whole Project</td>
 			<td>A simple proxy for bridging web socket (TCP) and backend UDP</td>
 		</tr>
 <!-- Steel Of Stalin COMP 4451 -->
@@ -138,7 +187,7 @@ Here are the skills I learnt and where I applied them:
 			</td>
 			<td rowspan="5">University Course Project</td>
 			<td rowspan="5">Completed</td>
-			<td>HTML5, SCSS, TypeScript</td>
+			<td>HTML5, SCSS, TypeScript, Webpack</td>
 			<td rowspan="2">UI Implementation</td>
 			<td rowspan="5">A 2D simulataneous-turn-based strategy game with military theme</td>
 		</tr>
@@ -161,7 +210,7 @@ Here are the skills I learnt and where I applied them:
 			<td>University Course Project</td>
 			<td>Completed</td>
 			<td>JavaScript</td>
-			<td>/</td>
+			<td>Whole Project</td>
 			<td>Implmentation of custom <a href="https://en.wikipedia.org/wiki/Envelope_(music)">AHDSR envelope</a></td>
 		</tr>
 <!-- COMP 3111 -->
@@ -179,12 +228,16 @@ Here are the skills I learnt and where I applied them:
 		</tr>
 <!-- COMP 3311 -->
 		<tr>
-			<td><a href="https://github.com/Maximilianabc/COMP/tree/master/3311">Labs & Course Project (Individual)</a></td>
-			<td>University Course Assignments</td>
-			<td>Completed</td>
-			<td>PL/SQL, C#<sup><a href="#Footnote">4</a></sup></td>
-			<td>/</td>
-			<td>Course Assignments for COMP 3311 - Database Management Systems</td>
+			<td rowspan="2"><a href="https://github.com/Maximilianabc/COMP/tree/master/3311">Labs & Course Project (Individual)</a></td>
+			<td rowspan="2">University Course Assignments</td>
+			<td rowspan="2">Completed</td>
+			<td>PL/SQL</td>
+			<td>Whole Project</td>
+			<td rowspan="2">Course Assignments for COMP 3311 - Database Management Systems</td>
+		</tr>
+		<tr>
+			<td>C#</td>
+			<td><a href="https://github.com/Maximilianabc/COMP/tree/master/3311/Labs/Lab8Exercise">Lab 8</a></td>
 		</tr>
 <!-- COMP 3021 -->
 		<tr>
@@ -192,11 +245,11 @@ Here are the skills I learnt and where I applied them:
 			<td rowspan="3">University Course Assignments</td>
 			<td rowspan="3">Completed</td>
 			<td>Java</td>
-			<td>/</td>
+			<td>Whole Project</td>
 			<td rowspan="3">Course Assignments for COMP 3021 - Java Programming</td>
 		</tr>
 		<tr>
-			<td>JavaFX<sup><a href="#Footnote">5</a></sup></td>
+			<td>JavaFX<sup><a href="#Footnote">4</a></sup></td>
 			<td>UI Implementation</td>
 		</tr>
 		<tr>
@@ -212,7 +265,7 @@ Here are the skills I learnt and where I applied them:
 			<td>University Course Assignments</td>
 			<td>Completed</td>
 			<td>C++</td>
-			<td>/</td>
+			<td>Whole Project</td>
 			<td>Course Assignments for <br/> COMP 2011 - Programming with C++ and <br/> COMP 2012 - Object-Oriented Programming and Data Structures</td>
 		</tr>
 <!-- Freelance -->
@@ -221,7 +274,7 @@ Here are the skills I learnt and where I applied them:
 			<td>Freelance Project</td>
 			<td>Completed</td>
 			<td>VBA</td>
-			<td>/</td>
+			<td>Whole Project</td>
 			<td>A small tailor-made Excel plugin for automatic generating invoice</td>
 		</tr>
 <!-- Small Self Projects -->
@@ -230,7 +283,7 @@ Here are the skills I learnt and where I applied them:
 			<td>Self Project</td>
 			<td>Completed</td>
 			<td>C#</td>
-			<td>/</td>
+			<td>Whole Project</td>
 			<td>A small tool for fetching course timetable</td>
 		</tr>
 		<tr>
@@ -238,7 +291,7 @@ Here are the skills I learnt and where I applied them:
 			<td>Self Project</td>
 			<td>Completed</td>
 			<td>C#</td>
-			<td>/</td>
+			<td>Whole Project</td>
 			<td>A small tool for fetching course zoom meeting links</td>
 		</tr>
 		<tr>
@@ -246,7 +299,7 @@ Here are the skills I learnt and where I applied them:
 			<td>Self Project</td>
 			<td>Completed</td>
 			<td>Lua</td>
-			<td>/</td>
+			<td>Whole Project</td>
 			<td>Some scripts written for controlling 
 				<a href="https://www.curseforge.com/minecraft/mc-mods/big-reactors#:~:text=Big%20Reactors%20emphasizes%20the%20construction,Energistics%202%2C%20and%20Minefactory%20Reloaded.">Big Reactors</a> 
 				(a mod for <a href="https://www.minecraft.net/en-us/about-minecraft">Minecraft</a>) using 
@@ -258,7 +311,7 @@ Here are the skills I learnt and where I applied them:
 			<td>Self Project</td>
 			<td>Ongoing</td>
 			<td>Xamarin</td>
-			<td>/</td>
+			<td>Whole Project</td>
 			<td>A small tool for removing duplicated Pixiv artworks saved to phones</td>
 		</tr>
 	</tbody>
@@ -268,8 +321,7 @@ Here are the skills I learnt and where I applied them:
 	<sup>1</sup> Screenshots are available in the <a href="https://github.com/Maximilianabc/PressOnce-Suite/tree/master/PressOnce.Web">repository</a> in case of website unavailability<br/>
 	<sup>2</sup> The full version of this project is being developed in a private repository<br/>
 	<sup>3</sup> The project was succeeded by the FYP version with drastic changes on mechanisms and visuals<br/>
-	<sup>4</sup> <a href="https://github.com/Maximilianabc/COMP/tree/master/3311/Labs/Lab8Exercise">Lab8</a> only<br/>
-	<sup>5</sup> Jeson Mor <a href="https://github.com/Maximilianabc/COMP/tree/master/3021/Pa2">PA2</a> only
+	<sup>4</sup> Jeson Mor <a href="https://github.com/Maximilianabc/COMP/tree/master/3021/Pa2">Programming Assignment 2</a> only
 </section>
 
 <!---
