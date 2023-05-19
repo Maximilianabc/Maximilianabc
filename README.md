@@ -2,9 +2,10 @@
 
 - 👋 Hi, I’m @Maximilianabc, you can call me Max
 - 👀 I’m interested in both frontend and backend development
-- 🌱 I’m currently learning:
-    - Azure DevOps Services, for my project PressOnce Suite (collaborations with newly joined contributors)
-    - Windows Server, for hosting my project PressOnce Suite
+- 🌱 I’m currently learning the following tools for my project PressOnce Suite:
+    - Azure DevOps Services, for collaborations with newly joined contributors
+    - Windows Server, for hosting
+    - Docker, for deployment
 - 📫 How to reach me: 
 	- [Alumni Email](mailto:hmmleung@connect.ust.hk)
 	- [Personal Email](mailto:leunghomanmax@rocketmail.com)
