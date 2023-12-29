@@ -29,18 +29,23 @@ Here are the skills I learnt and where I applied them:
 	<tbody>
 <!-- PressOnce Suite-->
 		<tr>
-			<td rowspan="10">
+			<td rowspan="12">
 				<!--<a href="https://github.com/Maximilianabc/PressOnce-Suite">PressOnce Suite</a>-->
 				PressOnce Suite
 			</td>
-			<td rowspan="10">Self Project</td>
-			<td rowspan="10">Ongoing</td>
-			<td>C#</td>
-			<td>Whole Project</td>
-			<td rowspan="10">
+			<td rowspan="12">Self Project</td>
+			<td rowspan="12">Ongoing</td>
+			<td rowspan="2">Azure DevOps Server</td>
+			<td>CI/CD</td>
+			<td rowspan="12">
 				A collection of softwares designed for the web browser game called
 				<a href="https://www.travian.com/international/game/playerinteraction">Travian Legends</a>
 			</td>
+		</tr>
+		<tr><td>Progress Management</td></tr>
+		<tr>
+			<td>C#</td>
+			<td>Whole Project</td>
 		</tr>
 		<tr>
 			<td>T-SQL</td>
@@ -83,9 +88,40 @@ Here are the skills I learnt and where I applied them:
 		</tr>
 <!-- San Miguel Projects -->
 		<tr>
+			<td rowspan="9">San Miguel Reimbursement System</td>
+			<td rowspan="9">Company Project</td>
+			<td rowspan="9">Completed</td>
+			<td rowspan="2">Azure DevOps Services</td>
+			<td>CI/CD</td>
+			<td rowspan="9">A system for handling employee reimbusrement digitalized workflow</td>
+		</tr>
+		<tr><td>Progress Management</td></tr>
+		<tr>
+			<td>HTML5, SCSS, TypeScript, Webpack</td>
+			<td rowspan="3">Frontend UI Implementation</td>
+		</tr>
+		<tr><td>React.js</td></tr>
+		<tr><td>MUI</td></tr>
+		<tr>
+			<td>Jest</td>
+			<td>Unit Testing React components</td>
+		</tr>
+		<tr>
+			<td>Node.js</td>
+			<td>Server Environment</td>
+		</tr>
+		<tr>
+			<td>IIS</td>
+			<td>Hosting</td>
+		</tr>
+		<tr>
+			<td>Adobe XD</td>
+			<td>UX design</td>
+		</tr>
+		<tr>
 			<td rowspan="6">San Miguel Mobile Sales Force - Web Admin Portal</td>
 			<td rowspan="6">Company Project</td>
-			<td rowspan="6">Ongoing</td>
+			<td rowspan="6">Completed</td>
 			<td>HTML5, SCSS, TypeScript, Webpack</td>
 			<td rowspan="2">Frontend UI Implementation</td>
 			<td rowspan="6">A web portal for sales admin operations like sales data management and report generations</td>
@@ -127,6 +163,22 @@ Here are the skills I learnt and where I applied them:
 			<td>IIS</td>
 			<td>Hosting</td>
 		</tr>
+		<tr>
+			<td rowspan="3">San Miguel SharePoint API</td>
+			<td rowspan="3">Company Project</td>
+			<td rowspan="3">Completed</td>
+			<td>ASP.NET Core Web API</td>
+			<td>Whole Project</td>
+			<td rowspan="3">An API for CRUD operations with company's SharePoint sites which consumed by different teams</td>
+		</tr>
+		<tr>
+			<td>NUnit</td>
+			<td>Unit Testing</td>
+		</tr>
+		<tr>
+			<td>IIS</td>
+			<td>Hosting</td>
+		</tr>
 <!-- FYP -->
 		<tr>
 			<td rowspan="5">
@@ -157,12 +209,12 @@ Here are the skills I learnt and where I applied them:
 		</tr>
 <!-- Internship Projects -->
 		<tr>
-			<td rowspan="4"><a href="https://github.com/Maximilianabc/Sharp-Point-Ltd-Web-Client">Sharp Point Ltd. Web Client</a></td>
+			<td rowspan="4">Sharp Point Ltd. Web Client</td>
 			<td rowspan="4">Company Project</td>
 			<td rowspan="4">Completed</td>
 			<td>HTML5, CSS3, TypeScript</td>
 			<td rowspan="2">UI Implementation</td>
-			<td rowspan="4">The web portal for the company's future trading system</td>
+			<td rowspan="4">The web portal for the company's futures trading system</td>
 		</tr>
 		<tr><td>React.js (Redux)</td></tr>
 		<tr>
@@ -174,7 +226,7 @@ Here are the skills I learnt and where I applied them:
 			<td>UX design</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/Maximilianabc/Sharp-Point-WebSocket-To-Socket-Proxy">Sharp Point Ltd. Web Socket Proxy</a></td>
+			<td>Sharp Point Ltd. Web Socket Proxy</td>
 			<td>Company Project</td>
 			<td>Completed</td>
 			<td>C#</td>
